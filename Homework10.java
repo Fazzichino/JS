@@ -1,4 +1,4 @@
-
+de
 // Create the file named Homework10.java under src
 //FAZILFAZILFAZILFAZILFAZILFAZILFAZIL
 public class Homework10 {
